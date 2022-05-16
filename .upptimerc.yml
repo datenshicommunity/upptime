@@ -44,12 +44,13 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  themeUrl: https://github.com/upptime/status-page/blob/HEAD/static/themes/dark.css
   cname: status.datenshi.pw
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/osu-datenshi/hanamaru/master/assets/img/icons/favicon-96x96.png
   name: Upptime
-  introTitle: "Public repository for monitoring datenshi instances, powered by upptime"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  #introTitle: "Public repository for monitoring datenshi instances, powered by upptime"
+  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
