@@ -44,7 +44,7 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  themeUrl: https://github.com/upptime/status-page/blob/HEAD/static/themes/dark.css
+  themeUrl: https://raw.githubusercontent.com/upptime/status-page/master/static/themes/dark.css
   cname: status.datenshi.pw
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/osu-datenshi/hanamaru/master/assets/img/icons/favicon-96x96.png
