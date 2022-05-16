@@ -39,7 +39,8 @@ sites:
     check: "tcp-ping"
     url: 194.233.65.131
     port: 25565
-
+assignees:
+  - troke12
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
