@@ -4,9 +4,9 @@
     "url": "https://osu.datenshi.pw",
     "icon": "https://favicons.githubusercontent.com/osu.datenshi.pw",
     "slug": "osu-datenshi-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1203,
     "timeMonth": 1188,
     "timeYear": 1188,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-02": 0
+    }
   },
   {
     "name": "osu! Datenshi Multiplayer Site",
