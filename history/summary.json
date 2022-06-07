@@ -4,18 +4,19 @@
     "url": "https://osu.datenshi.pw",
     "icon": "https://favicons.githubusercontent.com/osu.datenshi.pw",
     "slug": "osu-datenshi-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 1181,
-    "timeDay": 1282,
-    "timeWeek": 1177,
-    "timeMonth": 1181,
-    "timeYear": 1181,
+    "time": 1169,
+    "timeDay": 1068,
+    "timeWeek": 1141,
+    "timeMonth": 1169,
+    "timeYear": 1169,
     "dailyMinutesDown": {
+      "2022-06-07": 1,
       "2022-06-02": 28
     }
   },
@@ -24,18 +25,20 @@
     "url": "https://multi.datenshi.pw",
     "icon": "https://favicons.githubusercontent.com/multi.datenshi.pw",
     "slug": "osu-datenshi-multiplayer-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 944,
-    "timeDay": 972,
-    "timeWeek": 1008,
-    "timeMonth": 944,
-    "timeYear": 944,
-    "dailyMinutesDown": {}
+    "time": 939,
+    "timeDay": 894,
+    "timeWeek": 984,
+    "timeMonth": 939,
+    "timeYear": 939,
+    "dailyMinutesDown": {
+      "2022-06-07": 1
+    }
   },
   {
     "name": "Datenshi Portal",
@@ -153,45 +156,49 @@
     "url": "https://ip.datenshi.pw",
     "icon": "https://favicons.githubusercontent.com/ip.datenshi.pw",
     "slug": "ip-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 883,
-    "timeDay": 852,
-    "timeWeek": 891,
-    "timeMonth": 883,
-    "timeYear": 883,
-    "dailyMinutesDown": {}
+    "time": 877,
+    "timeDay": 795,
+    "timeWeek": 872,
+    "timeMonth": 877,
+    "timeYear": 877,
+    "dailyMinutesDown": {
+      "2022-06-07": 0
+    }
   },
   {
     "name": "MeguminAPI",
     "url": "https://storage.datenshi.pw",
     "icon": "https://favicons.githubusercontent.com/storage.datenshi.pw",
     "slug": "megumin-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1512,
-    "timeDay": 1586,
-    "timeWeek": 1548,
-    "timeMonth": 1512,
-    "timeYear": 1512,
-    "dailyMinutesDown": {}
+    "time": 1486,
+    "timeDay": 1169,
+    "timeWeek": 1449,
+    "timeMonth": 1486,
+    "timeYear": 1486,
+    "dailyMinutesDown": {
+      "2022-06-07": 0
+    }
   },
   {
     "name": "osu! Datenshi API",
     "url": "194.233.65.131",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "osu-datenshi-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -200,16 +207,18 @@
     "timeWeek": 202,
     "timeMonth": 198,
     "timeYear": 198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-07": 0
+    }
   },
   {
     "name": "osu! Datenshi Bancho",
     "url": "194.233.65.131",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "osu-datenshi-bancho",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -218,16 +227,18 @@
     "timeWeek": 201,
     "timeMonth": 197,
     "timeYear": 197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-07": 0
+    }
   },
   {
     "name": "osu! Datenshi Avatar",
     "url": "194.233.65.131",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "osu-datenshi-avatar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -236,7 +247,9 @@
     "timeWeek": 202,
     "timeMonth": 198,
     "timeYear": 198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-07": 0
+    }
   },
   {
     "name": "Minecraft Datenshi x Loebad",
@@ -244,11 +257,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "minecraft-datenshi-x-loebad",
     "status": "up",
-    "uptime": "96.54%",
+    "uptime": "96.56%",
     "uptimeDay": "82.16%",
     "uptimeWeek": "89.47%",
-    "uptimeMonth": "96.54%",
-    "uptimeYear": "96.54%",
+    "uptimeMonth": "96.56%",
+    "uptimeYear": "96.56%",
     "time": 196,
     "timeDay": 197,
     "timeWeek": 196,
